@@ -27,7 +27,8 @@ Dr LLm is a virtual doctor assistant that uses **Groq-hosted LLMs** to understan
 ->Installation
 * better if used **virtual environment**
 and dowloand req.txt
-# # to run the program 
+# # To Run the program 
 -> inside the virtual environment
 python doctor.py 
+
 
