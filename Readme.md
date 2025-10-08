@@ -1,4 +1,4 @@
-🧑‍⚕️ DR-LLM 
+🧑‍⚕️ DR-RAG
 
 Dr LLm is a virtual doctor assistant that uses **Groq-hosted LLMs** to understand **voice and image inputs** and provide **intelligent, medically relevant responses**. The project combines voice recognition, image processing, and large language model capabilities to simulate human-like interactions with a virtual doctor.
 
@@ -30,5 +30,6 @@ and dowloand req.txt
 # # To Run the program 
 -> inside the virtual environment
 python doctor.py 
+
 
 
